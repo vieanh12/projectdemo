@@ -44,9 +44,9 @@ body {
   .button1 {
     border: none;
     background-color: #F7DC14;
-    font-size: 20px;
+    font-size: 15px;
     padding: 32px 16px;
-    border-radius: 50%;
+    border-radius: 50px;
   }
   .button1:hover{
     transition-duration: 0.5s;
